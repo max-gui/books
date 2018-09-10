@@ -1,4 +1,4 @@
-# zuul with ribbon to set your own serverlists
+# zuul with ribbon to set your own listOfServers
 
 ## you need CustomServerList which extends AbstractServerList<Server>
 
